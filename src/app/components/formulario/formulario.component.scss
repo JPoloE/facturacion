@@ -1,0 +1,35 @@
+
+:host {
+    display: block;
+    margin: 1rem;
+    max-height: 80vh; /* Establece una altura máxima para el modal */
+    overflow-y: auto; /* Añade un scroll vertical cuando el contenido excede la altura máxima */
+  }
+  
+  .titulo {
+    height: 50px;
+  }
+  
+  .formulario {
+    margin-top: 20px; /* Elimina todos los márgenes */
+    overflow-y: auto; /* Añade un scroll vertical cuando el contenido excede el tamaño del contenedor */
+  }
+  
+  .responsabilidades {
+    height: 120px;
+  }
+
+  h1, h2{
+    border-bottom: 1px solid #7603A8;
+  }
+  
+  h1 {
+    margin-left: 10px;
+    
+  }
+  
+  h2 {
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  
